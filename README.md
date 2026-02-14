@@ -163,6 +163,3 @@ The system is scalable, secure, and suitable for real-world automation applicati
 
 Vedhathiri. K
 
----
-
-⭐ If you found this project useful, consider giving it a star!
